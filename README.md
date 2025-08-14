@@ -18,7 +18,7 @@
 5. Contribuir a repositorios open source relacionados con blockchain.
 
 📫 *Contacto:*  
-- [LinkedIn](https://linkedin.com/domenicavizcarra)  
+- [LinkedIn](https://linkedin.com/in/domenicavizcarra)  
 
 <!--
 **dvizc/dvizc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
